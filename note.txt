@@ -4,3 +4,5 @@ maka dari itu harus di running masing-masing tiap page.
 LOGIN:
 nomor rekam medis: 12345
 password: chinta
+
+saya tambahkan files.rar yang berisi file dentalcare dari awal sampai akhir, sebagai bahan pertimbangan apabila file yang diluar tidak bisa diakses
