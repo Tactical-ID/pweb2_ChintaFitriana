@@ -1,0 +1,6 @@
+maaf pak, saya tidak menggunakan .htaccess dikarenakan error.
+maka dari itu harus di running masing-masing tiap page.
+
+LOGIN:
+nomor rekam medis: 12345
+password: chinta
